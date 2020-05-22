@@ -1,0 +1,3 @@
+* My ubuntu startup
+1. change ctrl_L and alt_L
+
